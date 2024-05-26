@@ -5,3 +5,6 @@
 tags
 sundae_theme/docs/current
 node_modules/
+
+### Bundle Files ###
+dist/
