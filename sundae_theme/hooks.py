@@ -6,11 +6,11 @@ app_publisher = "tahir zaqout"
 app_description = "multi themes for frappe & erpnext apps"
 app_email = "tahirzaqout8@gmail.com"
 app_license = "MIT"
-app_logo_url = "/assets/sundae_theme/img/slogo.jpg"
+app_logo_url = "/assets/sundae_theme/public/img/slogo.jpg"
 
 website_context = {
-	"favicon": "/assets/sundae_theme/img/logo.png",
-	"splash_image": "/assets/sundae_theme/img/slogo.jpg",
+	"favicon": "/assets/sundae_theme/public/img/logo.png",
+	"splash_image": "/assets/sundae_theme/public/img/slogo.jpg",
 }
 # Includes in <head>
 # ------------------
