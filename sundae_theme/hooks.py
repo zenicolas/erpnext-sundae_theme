@@ -10,7 +10,7 @@ app_logo_url = "/assets/sundae_theme/img/slogo.jpg"
 
 website_context = {
 	"favicon": "/assets/sundae_theme/img/logo.png",
-	"splash_image": "/assets/sundae_theme/img/slogo.jpg",
+	"splash_image": "/assets/sundae_theme/img/slogo.png",
 }
 # Includes in <head>
 # ------------------
